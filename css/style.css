@@ -9,19 +9,19 @@ body{
 }
 @font-face {
     font-family: pacifico;
-    src: url(./fonts/Pacifico-Regular.ttf);
+    src: url(../fonts/Pacifico-Regular.ttf);
 }
 @font-face {
     font-family: Righteous;
-    src: url(./fonts/Righteous/Righteous-Regular.ttf);
+    src: url(../fonts/Righteous/Righteous-Regular.ttf);
 }
 @font-face {
     font-family: ptsans;
-    src: url(./fonts/ptsans/PTSansCaption-Bold.ttf);
+    src: url(../fonts/ptsans/PTSansCaption-Bold.ttf);
 }
 @font-face {
     font-family: bree;
-    src: url(./fonts/bree/BreeSerif-Regular.ttf);
+    src: url(../fonts/bree/BreeSerif-Regular.ttf);
 }
 h1{
     font-family: pacifico;
